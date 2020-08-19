@@ -22,7 +22,7 @@ html {
 .app__videos{
   position: relative;
   height: 65vh;
-  background-color: white;
+  background-color: black;
   width: 70%;
   border-radius: 20px;
   max-width: 450px;
@@ -42,4 +42,3 @@ html {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /*Firefox*/
 }
-
